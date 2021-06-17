@@ -1,0 +1,8 @@
+{
+  "name": "captionator",
+  "version": "0.6.0",
+  "description": "Simple closed-captioning polyfill for HTML5",
+  "main": "js/captionator.js",
+  "repository": "https://github.com/articulate/Captionator",
+  "author": "Christopher Giffard"
+}
