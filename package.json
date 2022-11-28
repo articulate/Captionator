@@ -4,5 +4,6 @@
   "description": "Simple closed-captioning polyfill for HTML5",
   "main": "js/captionator.js",
   "repository": "https://github.com/articulate/Captionator",
-  "author": "Christopher Giffard"
+  "author": "Christopher Giffard",
+  "private": true
 }
